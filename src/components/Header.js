@@ -7,7 +7,7 @@ const Page = (props) => {
     return(
       <>
         
-        <Button as={Link} to='/home'>
+        <Button as={Link} to='/'>
         Home
         </Button>
         <Button as={Link} to='/about'>
